@@ -1,6 +1,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Eduardo Aguilar</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aheduardo5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aheduardo5&redirect=true)
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
